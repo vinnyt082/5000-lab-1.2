@@ -16,5 +16,4 @@ format:
       - brand
     toc: true
 
-
-
+bibliography: reference.bib

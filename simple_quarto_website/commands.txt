@@ -1,0 +1,32 @@
+(base) vincente@Mac simple_quarto_website % rm styles.css               
+rm: styles.css: No such file or directory
+(base) vincente@Mac simple_quarto_website % ## done already^
+zsh: command not found: ##
+(base) vincente@Mac simple_quarto_website % mkdir images
+(base) vincente@Mac simple_quarto_website % mkdir slides
+(base) vincente@Mac simple_quarto_website % quarto convert about.qmd
+Converted to about.ipynb
+(base) vincente@Mac simple_quarto_website % ls
+_quarto.yml	about.qmd	index.qmd
+about.ipynb	images		slides
+(base) vincente@Mac simple_quarto_website % more reference.bib
+@article{cao2021data,
+  title={Data science and AI in FinTech: An overview},
+  author={Cao, Longbing and Yang, Qiang and Yu, Philip S},
+  journal={International Journal of Data Science and Analytics},
+  volume={12},
+  number={2},
+  pages={81--99},
+  year={2021},
+  publisher={Springer}
+}
+
+@article{wang2019human,
+  title={Human-AI collaboration in data science: Exploring data scientists' perceptions of automated AI},
+  author={Wang, Dakuo and Weisz, Justin D and Muller, Michael and Ram, Parikshit and Geyer, Werner and Dugan, Casey and Tausczik, Yla and Samulowitz, Horst and Gray, Alexander},
+  journal={Proceedings of the ACM on human-computer interaction},
+  volume={3},
+  number={CSCW},
+  pages={1--24},
+  year={2019},
+  publisher={ACM New York, NY, USA}
