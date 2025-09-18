@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "text: Friendship contrasted solicitude insipidity in introduced literature it. He seemed denote except as oppose do spring my. Between any may mention evening age shortly can ability regular. He shortly sixteen of colonel colonel evening cordial to. Although jointure an my of mistress servants am weddings. Age why the therefore education unfeeling for arranging. Above again money own scale maids ham least led. Returned settling produced strongly ecstatic use yourself way. Repulsive extremity enjoyment she perceived nor."
+  },
+  {
+    "objectID": "about.html#seperated-by-header",
+    "href": "about.html#seperated-by-header",
+    "title": "About",
+    "section": "Seperated by header",
+    "text": "Seperated by header\nSmallest directly families surprise honoured am an. Speaking replying mistress him numerous she returned feelings may day. Evening way luckily son exposed get general greatly. Zealously prevailed be arranging do. Set arranging too dejection september happiness. Understood instrument or do connection no appearance do invitation. Dried quick round it or order. Add past see west felt did any. Say out noise you taste merry plate you share. My resolve arrived is we chamber be removal.\n\nPlot\n\nimport matplotlib.pyplot as plt\n\nx = [1,2,3,4,5]\ny = [2 * i for i in x]\n\nplt.plot(x, y)\nplt.show()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”\n“Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?”"
+  },
+  {
+    "objectID": "index.html#table",
+    "href": "index.html#table",
+    "title": "simple_quarto_website",
+    "section": "Table",
+    "text": "Table\n\n\n\nSomething\nElse\n\n\n\n\nShould\nGo\n\n\nRight\nHere\n\n\n\n\nThis is math\n\\(\\Pr(submit\\mid late) = \\frac{tired}{(sleep)^2}\\)\n\n\nEasy math\n\\[\nf(x, y) = \\sum_{a}^{b} f(x, y) \\neg x+y\n\\]\n\n\nFootnote\nnote. 1\n\n\nQuote\n\n‘yeah’ - me"
+  },
+  {
+    "objectID": "index.html#images",
+    "href": "index.html#images",
+    "title": "simple_quarto_website",
+    "section": "Images",
+    "text": "Images\nPenguin + Luna = ?\n\nPenguin\n\n\n\nLuna"
+  },
+  {
+    "objectID": "index.html#breakdance",
+    "href": "index.html#breakdance",
+    "title": "simple_quarto_website",
+    "section": "Breakdance",
+    "text": "Breakdance\n\n\n\nMermaid\n\n\n\n\n\nflowchart LR\n  A[Hard edge] --&gt; B(Round edge)\n  B --&gt; C{Decision}\n  C --&gt; D[Result one]\n  C --&gt; E[Result two]"
+  },
+  {
+    "objectID": "index.html#references",
+    "href": "index.html#references",
+    "title": "simple_quarto_website",
+    "section": "References",
+    "text": "References\nFinancial technology (FinTech) is increasingly shaped by data science and AI (Cao, Yang, and Yu 2021).\nAt the same time, human–AI collaboration plays a critical role in shaping how data scientists perceive automation (Wang et al. 2019)."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nfoot↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#slide-1",
+    "href": "slides/slides.html#slide-1",
+    "title": "Lab Slides",
+    "section": "Slide 1",
+    "text": "Slide 1\nData-driven methods underpin modern AI systems and FinTech innovation (Cao, Yang, and Yu 2021).\nHuman–AI collaboration shapes how data scientists adopt automation in practice (Wang et al. 2019)."
+  },
+  {
+    "objectID": "slides/slides.html#slide-2",
+    "href": "slides/slides.html#slide-2",
+    "title": "Lab Slides",
+    "section": "Slide 2",
+    "text": "Slide 2"
+  },
+  {
+    "objectID": "slides/slides.html#slide-3",
+    "href": "slides/slides.html#slide-3",
+    "title": "Lab Slides",
+    "section": "Slide 3",
+    "text": "Slide 3\n\n\nCode\nimport matplotlib.pyplot as plt\n\nx = [1,2,3,4,5]\ny = [2 * i for i in x]\n\nplt.scatter(x, y)\nplt.show()\n\n\n\n\n\n\n\nCao, Longbing, Qiang Yang, and Philip S Yu. 2021. “Data Science and AI in FinTech: An Overview.” International Journal of Data Science and Analytics 12 (2): 81–99.\n\n\nWang, Dakuo, Justin D Weisz, Michael Muller, Parikshit Ram, Werner Geyer, Casey Dugan, Yla Tausczik, Horst Samulowitz, and Alexander Gray. 2019. “Human-AI Collaboration in Data Science: Exploring Data Scientists’ Perceptions of Automated AI.” Proceedings of the ACM on Human-Computer Interaction 3 (CSCW): 1–24."
+  }
+]
